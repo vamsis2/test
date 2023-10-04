@@ -1,0 +1,141 @@
+.header{
+ color: rgb(15, 16, 16);
+  background-color: rgb(4, 8, 38);
+  position: absolute;
+  top: -3%;
+  width: 100%;
+  height: 8%;
+  left: 0%;
+
+}
+.home{
+  position: absolute;
+  top: 8.595%;
+  width: 100%;
+  height: 91%;
+  left: 0%;
+}
+.sim1{
+  position: absolute;
+  top: -2%;
+  width: 25%;
+  height: 55%;
+  left: -1%;
+  background: transparent;
+}
+#em{
+  top: 1%;
+  position: absolute;
+  color: aliceblue;
+  left: 85%;
+  
+   font-family:sans-serif; 
+}
+#em1{
+  top: 1%;
+  position: absolute;
+  color: aliceblue;
+  left: 5%;
+  
+   font-family:sans-serif; 
+}
+#home1{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  text-decoration: none;
+  color: aliceblue;
+  font-size:18px;
+    font-family: Tahoma, sans-serif;
+}
+#about{
+  position: absolute;
+  top: 20%;
+  left: 38%;
+  text-decoration: none;
+  color: aliceblue;
+  font-size:18px;
+  font-family: Tahoma, sans-serif;
+}
+#servicies{
+  position: absolute;
+  top: 20%;
+  left: 48%;
+  text-decoration: none;
+  color: aliceblue;
+  font-size:18px;
+  font-family: Tahoma, sans-serif;
+   
+}
+#technologies{
+  position: absolute;
+  top: 20%;
+  left: 57%;
+  text-decoration: none;
+  color: aliceblue;
+  font-size:18px;
+  font-family: Tahoma, sans-serif;
+  
+}
+#career{
+  position: absolute;
+  top: 20%;
+  left: 68%;
+  text-decoration: none;
+  color: aliceblue;
+  font-size:18px;
+  font-family: Tahoma, sans-serif;
+}
+#contact{
+  position: absolute;
+  top: 15%;
+  left: 85%;
+  width: 7%;
+  height: 2%;
+  text-align: center;
+  text-decoration: none;
+  background-color: rgb(8, 134, 245);
+  padding: 20px;
+  color: rgb(249, 250, 251);
+  font-size:18px;
+  font-family:  Arial, sans-serif;
+  font-size: 100%;
+}
+#io{
+  position: absolute;
+  top: 30%;
+  left: 103%;
+}
+#io1{
+  position: absolute;
+  top: 30%;
+  left: 105%;
+}
+#know{
+    position: absolute;
+    top: 75%;
+    left: 10%;
+    width: 7%;
+    height: 2%;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(8, 134, 245);
+    padding: 30px;
+    color: rgb(249, 250, 251);
+    font-size:18px;
+    font-family:  Arial, sans-serif;
+    font-size: 100%;
+}
+#well{
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  color: aliceblue;
+  font-size: 400%;
+}
+#well1{
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  color: aliceblue;
+}
